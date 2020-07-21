@@ -16,4 +16,4 @@ install ipython (needed for nest):
 
 ## run
 use jupyter lab instead of jupyter notebook:
-```jupyter-lab```
+- ```jupyter-lab```
