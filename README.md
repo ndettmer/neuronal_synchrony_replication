@@ -3,7 +3,7 @@
 ## install
 
 create environment:
-```conda create --name ENVNAME -c conda-forge nest-simulator```
+```conda create --name ENVNAME -c conda-forge nest-simulator; conda activate ENVNAME```
 
 install jupyter lab (needed for nest):
 ```conda install -c conda-forge jupyterlab```
