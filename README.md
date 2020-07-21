@@ -2,14 +2,17 @@
 
 ## install
 
-create environment:
-```conda create --name ENVNAME -c conda-forge nest-simulator; conda activate ENVNAME```
+create environment and install nest:
+- ```conda create --name ENVNAME -c conda-forge nest-simulator``` 
+
+activate environment:
+- ```conda activate ENVNAME```
 
 install jupyter lab (needed for nest):
-```conda install -c conda-forge jupyterlab```
+- ```conda install -c conda-forge jupyterlab```
 
 install ipython (needed for nest):
-```conda install ipython```
+- ```conda install ipython```
 
 ## run
 use jupyter lab instead of jupyter notebook:
