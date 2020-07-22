@@ -1,19 +1,19 @@
 # ndcrew
 
-## install
+## install (with anaconda)
 
-create environment and install nest:
-- ```conda create --name ENVNAME -c conda-forge nest-simulator``` 
-
-activate environment:
+create and activate environment:
+- ```conda create -n ENVNAME``` 
 - ```conda activate ENVNAME```
 
-install jupyter lab (needed for nest):
-- ```conda install -c conda-forge jupyterlab```
-
-install ipython (needed for nest):
+install further requirements:
 - ```conda install ipython```
+- ```conda install jupyterlab```
+- ```conda install matplotlib```
+- ```conda install scikit-learn```
 
-## run
-use jupyter lab instead of jupyter notebook:
+install nest:
+- ```conda install -c conda-forge nest-simulator```
+
+## run:
 - ```jupyter-lab```
