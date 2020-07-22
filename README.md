@@ -9,11 +9,12 @@ create and activate environment:
 install further requirements:
 - ```conda install ipython```
 - ```conda install jupyterlab```
-- ```conda install matplotlib```
-- ```conda install scikit-learn```
 
 install nest:
 - ```conda install -c conda-forge nest-simulator```
 
 ## run:
 - ```jupyter-lab```
+
+## docker:
+- ```docker run --rm -e LOCAL_USER_ID=`id -u $USER` -v $(pwd):/opt/data -p 8080:8080 nestsim/nest:latest notebook```
