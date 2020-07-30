@@ -17,8 +17,8 @@ install nest:
 - ```jupyter-lab```
 
 ## docker:
-- ```docker run --rm -e LOCAL_USER_ID=`id -u $USER` -v $(pwd):/opt/data -p 8080:8080 nestsim/nest:latest notebook```
+```docker run --rm -e LOCAL_USER_ID=`id -u $USER` -v $(pwd):/opt/data -p 8080:8080 nestsim/nest:latest notebook```
 
 or
 
-- ```sh run_docker.sh```
+```sh run_docker.sh```
