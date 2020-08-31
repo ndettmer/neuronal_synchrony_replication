@@ -1,6 +1,6 @@
 # Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays (replication)
 
-This repository is a replication of the findings of the paper "Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays" (Vicente, Gollo, Mirasso, Fischer, Pipa, 2008). We investigated different coupling mechanisms and whether they lead to isochronous firing of neurons. The base case is with 3 simple Hodgkin Huxley neurons and the second one with large populations of Integrate-and-Fire neurons.
+This repository is a replication of the findings of the paper "Dynamical relaying can yield zero time lag neuronal synchrony despite long conduction delays" ([Vicente, Gollo, Mirasso, Fischer, Pipa, 2008](https://www.pnas.org/content/105/44/17157.short)). We investigated different coupling mechanisms and whether they lead to isochronous firing of neurons. The base case is with 3 simple Hodgkin Huxley neurons and the second one with large populations of Integrate-and-Fire neurons.
 
 ## files
 
