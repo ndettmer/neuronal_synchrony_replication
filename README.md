@@ -11,7 +11,7 @@ This file contains the results, explanations, interpretations for all experiment
 Code file for the first experiment. Run to simulate experiments with 3 HH neurons. Modulate variables to produce different settings. Saves the results and cofigurations as csv files.
 
 #### nest
-Code file for the second experiment. Run to simulate experiments with 3 populations of AIF neurons. Modulate variables to produce different settings. Saves the results as csv files.
+Code file for the second experiment. Run to simulate experiments with 3 populations of IAF neurons. Modulate variables to produce different settings. Saves the results as csv files.
 
 #### dumps
 Contains all experimental results
